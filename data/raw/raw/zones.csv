@@ -1,0 +1,21 @@
+zone_id,zone_name,zone_type
+Z01,The Corner,Campus
+Z02,Central Grounds,Campus
+Z03,North Grounds,Campus
+Z04,Fontaine,Campus
+Z05,Jefferson Park,Campus
+Z06,Downtown Mall,Downtown
+Z07,Belmont,Downtown
+Z08,West Main,Downtown
+Z09,Barracks Road,Shopping
+Z10,Stonefield,Shopping
+Z11,Pantops,Shopping
+Z12,5th Street Station,Shopping
+Z13,Woolen Mills,Residential
+Z14,Locust Grove,Residential
+Z15,Greenbrier,Residential
+Z16,Fry's Spring,Residential
+Z17,Rugby Road,Residential
+Z18,Fifeville,Residential
+Z19,Hydraulic Road,Residential
+Z20,Airport,Airport
